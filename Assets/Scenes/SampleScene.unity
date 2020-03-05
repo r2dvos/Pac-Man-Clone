@@ -133,9 +133,9 @@ GameObject:
   - component: {fileID: 8893276}
   - component: {fileID: 8893275}
   - component: {fileID: 8893274}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (229)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -240,7 +240,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 175
+  m_RootOrder: 171
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &25809782
 GameObject:
@@ -254,9 +254,9 @@ GameObject:
   - component: {fileID: 25809785}
   - component: {fileID: 25809784}
   - component: {fileID: 25809783}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (270)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -361,7 +361,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 239
+  m_RootOrder: 235
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &27767756
 GameObject:
@@ -375,9 +375,9 @@ GameObject:
   - component: {fileID: 27767759}
   - component: {fileID: 27767758}
   - component: {fileID: 27767757}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (154)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -482,7 +482,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 174
+  m_RootOrder: 170
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &38266548
 GameObject:
@@ -496,9 +496,9 @@ GameObject:
   - component: {fileID: 38266551}
   - component: {fileID: 38266550}
   - component: {fileID: 38266549}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (58)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -603,7 +603,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 161
+  m_RootOrder: 157
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &46734305
 GameObject:
@@ -617,9 +617,9 @@ GameObject:
   - component: {fileID: 46734308}
   - component: {fileID: 46734307}
   - component: {fileID: 46734306}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (140)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -724,7 +724,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 208
+  m_RootOrder: 204
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &60583994
 GameObject:
@@ -738,9 +738,9 @@ GameObject:
   - component: {fileID: 60583997}
   - component: {fileID: 60583996}
   - component: {fileID: 60583995}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (74)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -845,7 +845,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 160
+  m_RootOrder: 156
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &84451071
 GameObject:
@@ -859,9 +859,9 @@ GameObject:
   - component: {fileID: 84451074}
   - component: {fileID: 84451073}
   - component: {fileID: 84451072}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (117)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -966,7 +966,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 116
+  m_RootOrder: 113
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &92008515
 GameObject:
@@ -980,9 +980,9 @@ GameObject:
   - component: {fileID: 92008518}
   - component: {fileID: 92008517}
   - component: {fileID: 92008516}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (234)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1087,7 +1087,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 222
+  m_RootOrder: 218
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &97115011
 GameObject:
@@ -1101,9 +1101,9 @@ GameObject:
   - component: {fileID: 97115014}
   - component: {fileID: 97115013}
   - component: {fileID: 97115012}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (201)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1208,7 +1208,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 78
+  m_RootOrder: 76
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &102235541
 GameObject:
@@ -1222,9 +1222,9 @@ GameObject:
   - component: {fileID: 102235544}
   - component: {fileID: 102235543}
   - component: {fileID: 102235542}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (112)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1329,7 +1329,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 189
+  m_RootOrder: 185
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &103667823
 GameObject:
@@ -1343,9 +1343,9 @@ GameObject:
   - component: {fileID: 103667826}
   - component: {fileID: 103667825}
   - component: {fileID: 103667824}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (135)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1450,7 +1450,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 128
+  m_RootOrder: 125
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &113135960
 GameObject:
@@ -1464,9 +1464,9 @@ GameObject:
   - component: {fileID: 113135963}
   - component: {fileID: 113135962}
   - component: {fileID: 113135961}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (122)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1571,7 +1571,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 183
+  m_RootOrder: 179
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &129796852
 GameObject:
@@ -1585,9 +1585,9 @@ GameObject:
   - component: {fileID: 129796855}
   - component: {fileID: 129796854}
   - component: {fileID: 129796853}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (264)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1692,7 +1692,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 86
+  m_RootOrder: 83
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &133417588
 GameObject:
@@ -1706,9 +1706,9 @@ GameObject:
   - component: {fileID: 133417591}
   - component: {fileID: 133417590}
   - component: {fileID: 133417589}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (207)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1813,7 +1813,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 137
+  m_RootOrder: 134
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &142592358
 GameObject:
@@ -1827,9 +1827,9 @@ GameObject:
   - component: {fileID: 142592361}
   - component: {fileID: 142592360}
   - component: {fileID: 142592359}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (259)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1934,7 +1934,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 242
+  m_RootOrder: 238
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &148613949
 GameObject:
@@ -1948,9 +1948,9 @@ GameObject:
   - component: {fileID: 148613952}
   - component: {fileID: 148613951}
   - component: {fileID: 148613950}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (205)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2055,7 +2055,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 122
+  m_RootOrder: 119
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &157972492
 GameObject:
@@ -2069,9 +2069,9 @@ GameObject:
   - component: {fileID: 157972495}
   - component: {fileID: 157972494}
   - component: {fileID: 157972493}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (280)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2176,8 +2176,163 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 138
+  m_RootOrder: 135
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &159944369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 159944370}
+  - component: {fileID: 159944372}
+  - component: {fileID: 159944371}
+  m_Layer: 5
+  m_Name: High Score
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &159944370
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159944369}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1553841329}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -51.2, y: 151}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &159944371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159944369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 'High Score:'
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_outlineColor:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontSize: 14
+  m_fontSizeBase: 14
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_textAlignment: 514
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_firstOverflowCharacterIndex: -1
+  m_linkedTextComponent: {fileID: 0}
+  m_isLinkedTextComponent: 0
+  m_isTextTruncated: 0
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_ignoreRectMaskCulling: 0
+  m_ignoreCulling: 1
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_VertexBufferAutoSizeReduction: 1
+  m_firstVisibleCharacter: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_textInfo:
+    textComponent: {fileID: 159944371}
+    characterCount: 11
+    spriteCount: 0
+    spaceCount: 1
+    wordCount: 2
+    linkCount: 0
+    lineCount: 1
+    pageCount: 1
+    materialCount: 1
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_spriteAnimator: {fileID: 0}
+  m_hasFontAssetChanged: 0
+  m_subTextObjects:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &159944372
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159944369}
+  m_CullTransparentMesh: 0
 --- !u!1 &162165079
 GameObject:
   m_ObjectHideFlags: 0
@@ -2190,9 +2345,9 @@ GameObject:
   - component: {fileID: 162165082}
   - component: {fileID: 162165081}
   - component: {fileID: 162165080}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (37)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2311,9 +2466,9 @@ GameObject:
   - component: {fileID: 163876927}
   - component: {fileID: 163876926}
   - component: {fileID: 163876925}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (93)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2418,7 +2573,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 94
+  m_RootOrder: 91
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &164330567
 GameObject:
@@ -2432,9 +2587,9 @@ GameObject:
   - component: {fileID: 164330570}
   - component: {fileID: 164330569}
   - component: {fileID: 164330568}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (125)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2539,7 +2694,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 215
+  m_RootOrder: 211
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &171435548
 GameObject:
@@ -2553,9 +2708,9 @@ GameObject:
   - component: {fileID: 171435551}
   - component: {fileID: 171435550}
   - component: {fileID: 171435549}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (254)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2660,7 +2815,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 225
+  m_RootOrder: 221
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &186497509
 GameObject:
@@ -2674,9 +2829,9 @@ GameObject:
   - component: {fileID: 186497512}
   - component: {fileID: 186497511}
   - component: {fileID: 186497510}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (192)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2795,9 +2950,9 @@ GameObject:
   - component: {fileID: 196182795}
   - component: {fileID: 196182794}
   - component: {fileID: 196182793}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (64)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2902,7 +3057,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 125
+  m_RootOrder: 122
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &199886279
 GameObject:
@@ -2916,9 +3071,9 @@ GameObject:
   - component: {fileID: 199886282}
   - component: {fileID: 199886281}
   - component: {fileID: 199886280}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (124)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3023,7 +3178,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 209
+  m_RootOrder: 205
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &209467987
 GameObject:
@@ -3037,9 +3192,9 @@ GameObject:
   - component: {fileID: 209467990}
   - component: {fileID: 209467989}
   - component: {fileID: 209467988}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (146)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3144,7 +3299,73 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 207
+  m_RootOrder: 203
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &219658771
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 219658774}
+  - component: {fileID: 219658773}
+  - component: {fileID: 219658772}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &219658772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219658771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &219658773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219658771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &219658774
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219658771}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &223501593
 GameObject:
@@ -3158,9 +3379,9 @@ GameObject:
   - component: {fileID: 223501596}
   - component: {fileID: 223501595}
   - component: {fileID: 223501594}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (191)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3279,9 +3500,9 @@ GameObject:
   - component: {fileID: 241840228}
   - component: {fileID: 241840227}
   - component: {fileID: 241840226}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (101)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3386,7 +3607,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 81
+  m_RootOrder: 79
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &249299841
 GameObject:
@@ -3400,9 +3621,9 @@ GameObject:
   - component: {fileID: 249299844}
   - component: {fileID: 249299843}
   - component: {fileID: 249299842}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (271)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3507,7 +3728,64 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 186
+  m_RootOrder: 182
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &289181699
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 289181701}
+  - component: {fileID: 289181700}
+  m_Layer: 2
+  m_Name: TeleportLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &289181700
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 289181699}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!4 &289181701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 289181699}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 17, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &289629521
 GameObject:
@@ -3521,9 +3799,9 @@ GameObject:
   - component: {fileID: 289629524}
   - component: {fileID: 289629523}
   - component: {fileID: 289629522}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (181)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3628,8 +3906,268 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 55
+  m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &309430681
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 309430687}
+  - component: {fileID: 309430686}
+  - component: {fileID: 309430685}
+  - component: {fileID: 309430683}
+  - component: {fileID: 309430684}
+  - component: {fileID: 309430682}
+  - component: {fileID: 309430688}
+  m_Layer: 11
+  m_Name: Inky
+  m_TagString: Ghost
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!120 &309430682
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309430681}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+--- !u!58 &309430683
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309430681}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.8
+--- !u!50 &309430684
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309430681}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.01
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!95 &309430685
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309430681}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: eca1c7e1fbcba7b4a8dbc3beafb2d2b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &309430686
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309430681}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -8935091816293491894, guid: b14bd8274420f8942b0281cf5aee341f,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &309430687
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309430681}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7, y: 23, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &309430688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309430681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61405e72f6b5afa479f9221f9e8e17d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PacMan: {fileID: 1329145727}
+  movespeed: 0.05
+  linerenderer: {fileID: 309430682}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 13572
+  scatterMode: 0
+  Blinky: {fileID: 1917477922}
 --- !u!1 &317704496
 GameObject:
   m_ObjectHideFlags: 0
@@ -3642,9 +4180,9 @@ GameObject:
   - component: {fileID: 317704499}
   - component: {fileID: 317704498}
   - component: {fileID: 317704497}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (40)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3749,7 +4287,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 54
+  m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &317926298
 GameObject:
@@ -3763,9 +4301,9 @@ GameObject:
   - component: {fileID: 317926301}
   - component: {fileID: 317926300}
   - component: {fileID: 317926299}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (160)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3870,7 +4408,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 67
+  m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &318029298
 GameObject:
@@ -3884,9 +4422,9 @@ GameObject:
   - component: {fileID: 318029301}
   - component: {fileID: 318029300}
   - component: {fileID: 318029299}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (208)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3991,7 +4529,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 121
+  m_RootOrder: 118
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &321132321
 GameObject:
@@ -4005,9 +4543,9 @@ GameObject:
   - component: {fileID: 321132324}
   - component: {fileID: 321132323}
   - component: {fileID: 321132322}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (66)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4112,7 +4650,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 181
+  m_RootOrder: 177
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &333145999
 GameObject:
@@ -4126,9 +4664,9 @@ GameObject:
   - component: {fileID: 333146002}
   - component: {fileID: 333146001}
   - component: {fileID: 333146000}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (240)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4233,7 +4771,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 204
+  m_RootOrder: 200
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &336536099
 GameObject:
@@ -4247,9 +4785,9 @@ GameObject:
   - component: {fileID: 336536102}
   - component: {fileID: 336536101}
   - component: {fileID: 336536100}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (118)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4354,7 +4892,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 132
+  m_RootOrder: 129
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &341321025
 GameObject:
@@ -4368,9 +4906,9 @@ GameObject:
   - component: {fileID: 341321028}
   - component: {fileID: 341321027}
   - component: {fileID: 341321026}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (256)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4475,7 +5013,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 235
+  m_RootOrder: 231
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &354327286
 GameObject:
@@ -4489,9 +5027,9 @@ GameObject:
   - component: {fileID: 354327289}
   - component: {fileID: 354327288}
   - component: {fileID: 354327287}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (149)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4596,7 +5134,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 112
+  m_RootOrder: 109
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &355878513
 GameObject:
@@ -4610,9 +5148,9 @@ GameObject:
   - component: {fileID: 355878516}
   - component: {fileID: 355878515}
   - component: {fileID: 355878514}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (203)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4717,7 +5255,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 98
+  m_RootOrder: 95
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &366765280
 GameObject:
@@ -4731,9 +5269,9 @@ GameObject:
   - component: {fileID: 366765283}
   - component: {fileID: 366765282}
   - component: {fileID: 366765281}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (141)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4838,7 +5376,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 233
+  m_RootOrder: 229
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &379020976
 GameObject:
@@ -4852,9 +5390,9 @@ GameObject:
   - component: {fileID: 379020979}
   - component: {fileID: 379020978}
   - component: {fileID: 379020977}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (27)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4973,9 +5511,9 @@ GameObject:
   - component: {fileID: 381956840}
   - component: {fileID: 381956839}
   - component: {fileID: 381956838}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (281)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5080,7 +5618,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 164
+  m_RootOrder: 160
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &386175725
 GameObject:
@@ -5094,9 +5632,9 @@ GameObject:
   - component: {fileID: 386175728}
   - component: {fileID: 386175727}
   - component: {fileID: 386175726}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (184)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5201,7 +5739,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 234
+  m_RootOrder: 230
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &387334141
 GameObject:
@@ -5215,9 +5753,9 @@ GameObject:
   - component: {fileID: 387334144}
   - component: {fileID: 387334143}
   - component: {fileID: 387334142}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (86)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5336,9 +5874,9 @@ GameObject:
   - component: {fileID: 396945469}
   - component: {fileID: 396945468}
   - component: {fileID: 396945467}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (283)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5443,7 +5981,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 243
+  m_RootOrder: 239
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &400407587
 GameObject:
@@ -5457,9 +5995,9 @@ GameObject:
   - component: {fileID: 400407590}
   - component: {fileID: 400407589}
   - component: {fileID: 400407588}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (251)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5564,7 +6102,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 111
+  m_RootOrder: 108
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &423225083
 GameObject:
@@ -5578,9 +6116,9 @@ GameObject:
   - component: {fileID: 423225086}
   - component: {fileID: 423225085}
   - component: {fileID: 423225084}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (213)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5699,9 +6237,9 @@ GameObject:
   - component: {fileID: 441043176}
   - component: {fileID: 441043175}
   - component: {fileID: 441043174}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (163)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5806,7 +6344,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 80
+  m_RootOrder: 78
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &453109565
 GameObject:
@@ -5820,9 +6358,9 @@ GameObject:
   - component: {fileID: 453109568}
   - component: {fileID: 453109567}
   - component: {fileID: 453109566}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (51)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5927,7 +6465,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 84
+  m_RootOrder: 81
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &455122448
 GameObject:
@@ -5941,9 +6479,9 @@ GameObject:
   - component: {fileID: 455122451}
   - component: {fileID: 455122450}
   - component: {fileID: 455122449}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (67)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6048,7 +6586,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 197
+  m_RootOrder: 193
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &458054508
 GameObject:
@@ -6062,9 +6600,9 @@ GameObject:
   - component: {fileID: 458054511}
   - component: {fileID: 458054510}
   - component: {fileID: 458054509}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (276)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6183,9 +6721,9 @@ GameObject:
   - component: {fileID: 465285795}
   - component: {fileID: 465285794}
   - component: {fileID: 465285793}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (241)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6290,7 +6828,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 237
+  m_RootOrder: 233
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &468391135
 GameObject:
@@ -6304,9 +6842,9 @@ GameObject:
   - component: {fileID: 468391138}
   - component: {fileID: 468391137}
   - component: {fileID: 468391136}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (73)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6411,7 +6949,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 153
+  m_RootOrder: 150
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &483318912
 GameObject:
@@ -6425,9 +6963,9 @@ GameObject:
   - component: {fileID: 483318915}
   - component: {fileID: 483318914}
   - component: {fileID: 483318913}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (164)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6532,7 +7070,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 93
+  m_RootOrder: 90
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &498783964
 GameObject:
@@ -6546,9 +7084,9 @@ GameObject:
   - component: {fileID: 498783967}
   - component: {fileID: 498783966}
   - component: {fileID: 498783965}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (242)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6667,9 +7205,9 @@ GameObject:
   - component: {fileID: 499854004}
   - component: {fileID: 499854003}
   - component: {fileID: 499854002}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (211)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6774,7 +7312,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 226
+  m_RootOrder: 222
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &512768435
 GameObject:
@@ -6788,9 +7326,9 @@ GameObject:
   - component: {fileID: 512768438}
   - component: {fileID: 512768437}
   - component: {fileID: 512768436}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (111)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6895,7 +7433,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 182
+  m_RootOrder: 178
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -6950,7 +7488,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 30
+  orthographic size: 17.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -6992,9 +7530,9 @@ GameObject:
   - component: {fileID: 520389046}
   - component: {fileID: 520389045}
   - component: {fileID: 520389044}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (235)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7099,7 +7637,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 240
+  m_RootOrder: 236
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &522479047
 GameObject:
@@ -7113,9 +7651,9 @@ GameObject:
   - component: {fileID: 522479050}
   - component: {fileID: 522479049}
   - component: {fileID: 522479048}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (168)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7220,7 +7758,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 143
+  m_RootOrder: 140
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &528587294
 GameObject:
@@ -7234,9 +7772,9 @@ GameObject:
   - component: {fileID: 528587297}
   - component: {fileID: 528587296}
   - component: {fileID: 528587295}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (145)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7341,7 +7879,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 202
+  m_RootOrder: 198
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &533728681
 GameObject:
@@ -7355,9 +7893,9 @@ GameObject:
   - component: {fileID: 533728684}
   - component: {fileID: 533728683}
   - component: {fileID: 533728682}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (210)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7462,8 +8000,87 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 192
+  m_RootOrder: 188
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &533962058
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_Name
+      value: Power Pellet 2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_TagString
+      value: PowerPellet
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c39da758bcb97a849a254d10adf8bd60, type: 3}
 --- !u!1 &537709640
 GameObject:
   m_ObjectHideFlags: 0
@@ -7476,9 +8093,9 @@ GameObject:
   - component: {fileID: 537709643}
   - component: {fileID: 537709642}
   - component: {fileID: 537709641}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (136)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7583,7 +8200,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 178
+  m_RootOrder: 174
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &542058669
 GameObject:
@@ -7597,9 +8214,9 @@ GameObject:
   - component: {fileID: 542058672}
   - component: {fileID: 542058671}
   - component: {fileID: 542058670}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (169)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7718,9 +8335,9 @@ GameObject:
   - component: {fileID: 542248846}
   - component: {fileID: 542248845}
   - component: {fileID: 542248844}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (82)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7825,7 +8442,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 172
+  m_RootOrder: 168
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &543213057
 GameObject:
@@ -7839,9 +8456,9 @@ GameObject:
   - component: {fileID: 543213060}
   - component: {fileID: 543213059}
   - component: {fileID: 543213058}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (91)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7946,7 +8563,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 136
+  m_RootOrder: 133
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &545545019
 GameObject:
@@ -7960,9 +8577,9 @@ GameObject:
   - component: {fileID: 545545022}
   - component: {fileID: 545545021}
   - component: {fileID: 545545020}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (158)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8067,7 +8684,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 221
+  m_RootOrder: 217
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &548064404
 GameObject:
@@ -8081,9 +8698,9 @@ GameObject:
   - component: {fileID: 548064407}
   - component: {fileID: 548064406}
   - component: {fileID: 548064405}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (142)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8188,7 +8805,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 113
+  m_RootOrder: 110
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &554468209
 GameObject:
@@ -8202,9 +8819,9 @@ GameObject:
   - component: {fileID: 554468212}
   - component: {fileID: 554468211}
   - component: {fileID: 554468210}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (108)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8309,7 +8926,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 141
+  m_RootOrder: 138
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &562805140
 GameObject:
@@ -8323,9 +8940,9 @@ GameObject:
   - component: {fileID: 562805143}
   - component: {fileID: 562805142}
   - component: {fileID: 562805141}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (244)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8444,9 +9061,9 @@ GameObject:
   - component: {fileID: 596512741}
   - component: {fileID: 596512740}
   - component: {fileID: 596512739}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (204)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8551,7 +9168,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 100
+  m_RootOrder: 97
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &601565778
 GameObject:
@@ -8565,9 +9182,9 @@ GameObject:
   - component: {fileID: 601565781}
   - component: {fileID: 601565780}
   - component: {fileID: 601565779}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (63)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8672,7 +9289,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 103
+  m_RootOrder: 100
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &637750915
 GameObject:
@@ -8686,9 +9303,9 @@ GameObject:
   - component: {fileID: 637750918}
   - component: {fileID: 637750917}
   - component: {fileID: 637750916}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (76)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8793,7 +9410,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 187
+  m_RootOrder: 183
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &666616437
 GameObject:
@@ -8807,9 +9424,9 @@ GameObject:
   - component: {fileID: 666616440}
   - component: {fileID: 666616439}
   - component: {fileID: 666616438}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (180)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8928,9 +9545,9 @@ GameObject:
   - component: {fileID: 680462717}
   - component: {fileID: 680462716}
   - component: {fileID: 680462715}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (137)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9035,7 +9652,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 232
+  m_RootOrder: 228
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &688045709
 GameObject:
@@ -9049,9 +9666,9 @@ GameObject:
   - component: {fileID: 688045712}
   - component: {fileID: 688045711}
   - component: {fileID: 688045710}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (228)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9156,7 +9773,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 163
+  m_RootOrder: 159
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &693858089
 GameObject:
@@ -9170,9 +9787,9 @@ GameObject:
   - component: {fileID: 693858092}
   - component: {fileID: 693858091}
   - component: {fileID: 693858090}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (85)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9291,9 +9908,9 @@ GameObject:
   - component: {fileID: 695197328}
   - component: {fileID: 695197327}
   - component: {fileID: 695197326}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (55)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9398,7 +10015,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 90
+  m_RootOrder: 87
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &697140663
 GameObject:
@@ -9412,9 +10029,9 @@ GameObject:
   - component: {fileID: 697140666}
   - component: {fileID: 697140665}
   - component: {fileID: 697140664}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (71)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9519,7 +10136,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 123
+  m_RootOrder: 120
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &711191662
 GameObject:
@@ -9533,9 +10150,9 @@ GameObject:
   - component: {fileID: 711191665}
   - component: {fileID: 711191664}
   - component: {fileID: 711191663}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (282)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9640,7 +10257,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 184
+  m_RootOrder: 180
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &723137204
 GameObject:
@@ -9654,9 +10271,9 @@ GameObject:
   - component: {fileID: 723137207}
   - component: {fileID: 723137206}
   - component: {fileID: 723137205}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (161)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9761,7 +10378,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 82
+  m_RootOrder: 80
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &724170653
 GameObject:
@@ -9775,9 +10392,9 @@ GameObject:
   - component: {fileID: 724170656}
   - component: {fileID: 724170655}
   - component: {fileID: 724170654}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (113)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9882,7 +10499,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 203
+  m_RootOrder: 199
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &727140049
 GameObject:
@@ -9896,9 +10513,9 @@ GameObject:
   - component: {fileID: 727140052}
   - component: {fileID: 727140051}
   - component: {fileID: 727140050}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (31)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10017,9 +10634,9 @@ GameObject:
   - component: {fileID: 734366118}
   - component: {fileID: 734366117}
   - component: {fileID: 734366116}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (177)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10138,9 +10755,9 @@ GameObject:
   - component: {fileID: 737717602}
   - component: {fileID: 737717601}
   - component: {fileID: 737717600}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (245)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10245,7 +10862,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 57
+  m_RootOrder: 56
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &742650766
 GameObject:
@@ -10259,9 +10876,9 @@ GameObject:
   - component: {fileID: 742650769}
   - component: {fileID: 742650768}
   - component: {fileID: 742650767}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (130)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10366,128 +10983,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 68
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &748231270
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 748231274}
-  - component: {fileID: 748231273}
-  - component: {fileID: 748231272}
-  - component: {fileID: 748231271}
-  m_Layer: 0
-  m_Name: pacdot (120)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &748231271
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 748231270}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e6af9cdc5d45394bbcfb23769201aae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!61 &748231272
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 748231270}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.25, y: 0.25}
-    newSize: {x: 0.25, y: 0.25}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.25, y: 0.25}
-  m_EdgeRadius: 0
---- !u!212 &748231273
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 748231270}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: bf716517895827244b73292bd834ef91, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.25, y: 0.25}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &748231274
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 748231270}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 27, y: 30, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1393661686}
-  m_RootOrder: 158
+  m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &775569440
 GameObject:
@@ -10501,9 +10997,9 @@ GameObject:
   - component: {fileID: 775569443}
   - component: {fileID: 775569442}
   - component: {fileID: 775569441}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (80)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10608,7 +11104,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 229
+  m_RootOrder: 225
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &800296984
 GameObject:
@@ -10622,9 +11118,9 @@ GameObject:
   - component: {fileID: 800296987}
   - component: {fileID: 800296986}
   - component: {fileID: 800296985}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (38)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10743,9 +11239,9 @@ GameObject:
   - component: {fileID: 805887294}
   - component: {fileID: 805887293}
   - component: {fileID: 805887292}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (172)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10864,9 +11360,9 @@ GameObject:
   - component: {fileID: 813538213}
   - component: {fileID: 813538212}
   - component: {fileID: 813538211}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (212)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10971,7 +11467,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 236
+  m_RootOrder: 232
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &815836695
 GameObject:
@@ -10985,9 +11481,9 @@ GameObject:
   - component: {fileID: 815836698}
   - component: {fileID: 815836697}
   - component: {fileID: 815836696}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (165)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11092,9 +11588,9 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 145
+  m_RootOrder: 142
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &820381677
+--- !u!1 &830192420
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -11102,62 +11598,46 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 820381681}
-  - component: {fileID: 820381680}
-  - component: {fileID: 820381679}
-  - component: {fileID: 820381678}
-  m_Layer: 0
-  m_Name: pacdot (131)
-  m_TagString: Untagged
+  - component: {fileID: 830192423}
+  - component: {fileID: 830192422}
+  - component: {fileID: 830192421}
+  - component: {fileID: 830192426}
+  - component: {fileID: 830192425}
+  - component: {fileID: 830192424}
+  - component: {fileID: 830192427}
+  m_Layer: 12
+  m_Name: Pinky
+  m_TagString: Ghost
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &820381678
-MonoBehaviour:
+--- !u!95 &830192421
+Animator:
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 820381677}
+  m_GameObject: {fileID: 830192420}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e6af9cdc5d45394bbcfb23769201aae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!61 &820381679
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 820381677}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.25, y: 0.25}
-    newSize: {x: 0.25, y: 0.25}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.25, y: 0.25}
-  m_EdgeRadius: 0
---- !u!212 &820381680
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 55b49a7b9d1485249a0ff1804a636a98, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &830192422
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 820381677}
+  m_GameObject: {fileID: 830192420}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -11189,32 +11669,186 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: bf716517895827244b73292bd834ef91, type: 3}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -3441670517663871490, guid: 4d03cebe4cde9644297c9e681195ace6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.25, y: 0.25}
+  m_Size: {x: 2, y: 2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!4 &820381681
+--- !u!4 &830192423
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 820381677}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2, y: 28, z: 0}
+  m_GameObject: {fileID: 830192420}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10, y: 26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1393661686}
-  m_RootOrder: 83
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &830192424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830192420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48be33d7198d0de4cbc6382c1981b706, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PacMan: {fileID: 1329145727}
+  movespeed: 0.05
+  linerenderer: {fileID: 830192427}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 11524
+  scatterMode: 0
+--- !u!50 &830192425
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830192420}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.01
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!58 &830192426
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830192420}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.8
+--- !u!120 &830192427
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830192420}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
 --- !u!1 &833187499
 GameObject:
   m_ObjectHideFlags: 0
@@ -11227,9 +11861,9 @@ GameObject:
   - component: {fileID: 833187502}
   - component: {fileID: 833187501}
   - component: {fileID: 833187500}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (183)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11334,7 +11968,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 198
+  m_RootOrder: 194
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &849361778
 GameObject:
@@ -11348,9 +11982,9 @@ GameObject:
   - component: {fileID: 849361781}
   - component: {fileID: 849361780}
   - component: {fileID: 849361779}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (138)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11455,7 +12089,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 114
+  m_RootOrder: 111
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &852835423
 GameObject:
@@ -11469,9 +12103,9 @@ GameObject:
   - component: {fileID: 852835426}
   - component: {fileID: 852835425}
   - component: {fileID: 852835424}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (60)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11576,7 +12210,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 212
+  m_RootOrder: 208
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &863666262
 GameObject:
@@ -11590,9 +12224,9 @@ GameObject:
   - component: {fileID: 863666265}
   - component: {fileID: 863666264}
   - component: {fileID: 863666263}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (36)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11711,9 +12345,9 @@ GameObject:
   - component: {fileID: 865561346}
   - component: {fileID: 865561345}
   - component: {fileID: 865561344}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (107)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11818,7 +12452,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 131
+  m_RootOrder: 128
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &872038832
 GameObject:
@@ -11832,9 +12466,9 @@ GameObject:
   - component: {fileID: 872038835}
   - component: {fileID: 872038834}
   - component: {fileID: 872038833}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (156)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11939,7 +12573,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 199
+  m_RootOrder: 195
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &872411271
 GameObject:
@@ -11953,9 +12587,9 @@ GameObject:
   - component: {fileID: 872411274}
   - component: {fileID: 872411273}
   - component: {fileID: 872411272}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (54)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12060,7 +12694,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 195
+  m_RootOrder: 191
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &893906972
 GameObject:
@@ -12074,9 +12708,9 @@ GameObject:
   - component: {fileID: 893906975}
   - component: {fileID: 893906974}
   - component: {fileID: 893906973}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (102)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12181,128 +12815,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 96
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &913483814
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 913483818}
-  - component: {fileID: 913483817}
-  - component: {fileID: 913483816}
-  - component: {fileID: 913483815}
-  m_Layer: 0
-  m_Name: pacdot (42)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &913483815
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 913483814}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e6af9cdc5d45394bbcfb23769201aae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!61 &913483816
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 913483814}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.25, y: 0.25}
-    newSize: {x: 0.25, y: 0.25}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.25, y: 0.25}
-  m_EdgeRadius: 0
---- !u!212 &913483817
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 913483814}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: bf716517895827244b73292bd834ef91, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.25, y: 0.25}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &913483818
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 913483814}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2, y: 8, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1393661686}
-  m_RootOrder: 52
+  m_RootOrder: 93
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &914522366
 GameObject:
@@ -12316,9 +12829,9 @@ GameObject:
   - component: {fileID: 914522369}
   - component: {fileID: 914522368}
   - component: {fileID: 914522367}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (209)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12423,7 +12936,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 167
+  m_RootOrder: 163
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &917065323
 GameObject:
@@ -12437,9 +12950,9 @@ GameObject:
   - component: {fileID: 917065326}
   - component: {fileID: 917065325}
   - component: {fileID: 917065324}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (266)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12544,7 +13057,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 74
+  m_RootOrder: 72
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &924653545
 GameObject:
@@ -12558,9 +13071,9 @@ GameObject:
   - component: {fileID: 924653548}
   - component: {fileID: 924653547}
   - component: {fileID: 924653546}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (193)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12679,9 +13192,9 @@ GameObject:
   - component: {fileID: 926781682}
   - component: {fileID: 926781681}
   - component: {fileID: 926781680}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (139)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12786,7 +13299,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 148
+  m_RootOrder: 145
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &928949501
 GameObject:
@@ -12800,9 +13313,9 @@ GameObject:
   - component: {fileID: 928949504}
   - component: {fileID: 928949503}
   - component: {fileID: 928949502}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (115)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12907,7 +13420,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 219
+  m_RootOrder: 215
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &949529580
 GameObject:
@@ -12921,9 +13434,9 @@ GameObject:
   - component: {fileID: 949529583}
   - component: {fileID: 949529582}
   - component: {fileID: 949529581}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (97)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13028,7 +13541,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 95
+  m_RootOrder: 92
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &953376934
 GameObject:
@@ -13042,9 +13555,9 @@ GameObject:
   - component: {fileID: 953376937}
   - component: {fileID: 953376936}
   - component: {fileID: 953376935}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (236)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13149,7 +13662,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 119
+  m_RootOrder: 116
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &957295028
 GameObject:
@@ -13163,9 +13676,9 @@ GameObject:
   - component: {fileID: 957295031}
   - component: {fileID: 957295030}
   - component: {fileID: 957295029}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (239)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13270,7 +13783,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 190
+  m_RootOrder: 186
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &959451336
 GameObject:
@@ -13284,9 +13797,9 @@ GameObject:
   - component: {fileID: 959451339}
   - component: {fileID: 959451338}
   - component: {fileID: 959451337}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (267)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13391,7 +13904,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 91
+  m_RootOrder: 88
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &963419187
 GameObject:
@@ -13405,9 +13918,9 @@ GameObject:
   - component: {fileID: 963419190}
   - component: {fileID: 963419189}
   - component: {fileID: 963419188}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (133)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13512,7 +14025,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 179
+  m_RootOrder: 175
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &969539547
 GameObject:
@@ -13526,9 +14039,9 @@ GameObject:
   - component: {fileID: 969539550}
   - component: {fileID: 969539549}
   - component: {fileID: 969539548}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (134)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13633,7 +14146,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 105
+  m_RootOrder: 102
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &969848853
 GameObject:
@@ -13647,9 +14160,9 @@ GameObject:
   - component: {fileID: 969848856}
   - component: {fileID: 969848855}
   - component: {fileID: 969848854}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (53)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13754,7 +14267,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 101
+  m_RootOrder: 98
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &983465533
 GameObject:
@@ -13768,9 +14281,9 @@ GameObject:
   - component: {fileID: 983465536}
   - component: {fileID: 983465535}
   - component: {fileID: 983465534}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (41)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13875,7 +14388,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 53
+  m_RootOrder: 52
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &988312409
 GameObject:
@@ -13889,9 +14402,9 @@ GameObject:
   - component: {fileID: 988312412}
   - component: {fileID: 988312411}
   - component: {fileID: 988312410}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (182)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13996,7 +14509,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 142
+  m_RootOrder: 139
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &992280248
 GameObject:
@@ -14010,9 +14523,9 @@ GameObject:
   - component: {fileID: 992280251}
   - component: {fileID: 992280250}
   - component: {fileID: 992280249}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (214)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14131,9 +14644,9 @@ GameObject:
   - component: {fileID: 999079187}
   - component: {fileID: 999079186}
   - component: {fileID: 999079185}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (198)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14238,7 +14751,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 65
+  m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1025642296
 GameObject:
@@ -14252,9 +14765,9 @@ GameObject:
   - component: {fileID: 1025642299}
   - component: {fileID: 1025642298}
   - component: {fileID: 1025642297}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (99)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14359,7 +14872,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 66
+  m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1028361435
 GameObject:
@@ -14373,9 +14886,9 @@ GameObject:
   - component: {fileID: 1028361438}
   - component: {fileID: 1028361437}
   - component: {fileID: 1028361436}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (106)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14480,7 +14993,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 115
+  m_RootOrder: 112
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1028371441
 GameObject:
@@ -14494,9 +15007,9 @@ GameObject:
   - component: {fileID: 1028371444}
   - component: {fileID: 1028371443}
   - component: {fileID: 1028371442}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (62)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14601,7 +15114,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 228
+  m_RootOrder: 224
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1032881584
 GameObject:
@@ -14615,9 +15128,9 @@ GameObject:
   - component: {fileID: 1032881587}
   - component: {fileID: 1032881586}
   - component: {fileID: 1032881585}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (173)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14736,9 +15249,9 @@ GameObject:
   - component: {fileID: 1043604182}
   - component: {fileID: 1043604181}
   - component: {fileID: 1043604180}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (56)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14843,7 +15356,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 109
+  m_RootOrder: 106
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1050458338
 GameObject:
@@ -14857,9 +15370,9 @@ GameObject:
   - component: {fileID: 1050458341}
   - component: {fileID: 1050458340}
   - component: {fileID: 1050458339}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (49)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14964,8 +15477,87 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 56
+  m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1050789020
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1050789022}
+  - component: {fileID: 1050789021}
+  - component: {fileID: 1050789023}
+  m_Layer: 0
+  m_Name: PinkWall
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &1050789021
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1050789020}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.25}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 3, y: 1}
+  m_EdgeRadius: 0
+--- !u!4 &1050789022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1050789020}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.5, y: 18.75, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &1050789023
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1050789020}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 7
 --- !u!1 &1071221441
 GameObject:
   m_ObjectHideFlags: 0
@@ -14978,9 +15570,9 @@ GameObject:
   - component: {fileID: 1071221444}
   - component: {fileID: 1071221443}
   - component: {fileID: 1071221442}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (171)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15099,9 +15691,9 @@ GameObject:
   - component: {fileID: 1073882645}
   - component: {fileID: 1073882644}
   - component: {fileID: 1073882643}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (277)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15220,9 +15812,9 @@ GameObject:
   - component: {fileID: 1075225667}
   - component: {fileID: 1075225666}
   - component: {fileID: 1075225665}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (233)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15327,7 +15919,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 220
+  m_RootOrder: 216
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1077791415
 GameObject:
@@ -15341,9 +15933,9 @@ GameObject:
   - component: {fileID: 1077791418}
   - component: {fileID: 1077791417}
   - component: {fileID: 1077791416}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (65)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15448,7 +16040,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 154
+  m_RootOrder: 151
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1080273703
 GameObject:
@@ -15462,9 +16054,9 @@ GameObject:
   - component: {fileID: 1080273706}
   - component: {fileID: 1080273705}
   - component: {fileID: 1080273704}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (258)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15569,7 +16161,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 224
+  m_RootOrder: 220
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1093320688
 GameObject:
@@ -15583,9 +16175,9 @@ GameObject:
   - component: {fileID: 1093320691}
   - component: {fileID: 1093320690}
   - component: {fileID: 1093320689}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (202)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15690,7 +16282,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 87
+  m_RootOrder: 84
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1103977129
 GameObject:
@@ -15704,9 +16296,9 @@ GameObject:
   - component: {fileID: 1103977132}
   - component: {fileID: 1103977131}
   - component: {fileID: 1103977130}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (109)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15811,7 +16403,64 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 157
+  m_RootOrder: 154
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1112629061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1112629063}
+  - component: {fileID: 1112629062}
+  m_Layer: 2
+  m_Name: TeleportRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &1112629062
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112629061}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!4 &1112629063
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112629061}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 29, y: 17, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1131711595
 GameObject:
@@ -15825,9 +16474,9 @@ GameObject:
   - component: {fileID: 1131711598}
   - component: {fileID: 1131711597}
   - component: {fileID: 1131711596}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (152)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15932,7 +16581,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 156
+  m_RootOrder: 153
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1136723535
 GameObject:
@@ -15946,9 +16595,9 @@ GameObject:
   - component: {fileID: 1136723538}
   - component: {fileID: 1136723537}
   - component: {fileID: 1136723536}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (197)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16053,7 +16702,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 63
+  m_RootOrder: 61
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1144735780
 GameObject:
@@ -16067,9 +16716,9 @@ GameObject:
   - component: {fileID: 1144735783}
   - component: {fileID: 1144735782}
   - component: {fileID: 1144735781}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (222)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16174,7 +16823,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 72
+  m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1158686501
 GameObject:
@@ -16188,9 +16837,9 @@ GameObject:
   - component: {fileID: 1158686504}
   - component: {fileID: 1158686503}
   - component: {fileID: 1158686502}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (68)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16295,7 +16944,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 218
+  m_RootOrder: 214
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1168956435
 GameObject:
@@ -16309,9 +16958,9 @@ GameObject:
   - component: {fileID: 1168956438}
   - component: {fileID: 1168956437}
   - component: {fileID: 1168956436}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (48)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16416,7 +17065,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 170
+  m_RootOrder: 166
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1181141814
 GameObject:
@@ -16430,9 +17079,9 @@ GameObject:
   - component: {fileID: 1181141817}
   - component: {fileID: 1181141816}
   - component: {fileID: 1181141815}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (84)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16551,9 +17200,9 @@ GameObject:
   - component: {fileID: 1188596229}
   - component: {fileID: 1188596228}
   - component: {fileID: 1188596227}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (33)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16672,9 +17321,9 @@ GameObject:
   - component: {fileID: 1198097609}
   - component: {fileID: 1198097608}
   - component: {fileID: 1198097607}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (46)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16779,7 +17428,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 73
+  m_RootOrder: 71
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1199327737
 GameObject:
@@ -16793,9 +17442,9 @@ GameObject:
   - component: {fileID: 1199327740}
   - component: {fileID: 1199327739}
   - component: {fileID: 1199327738}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (147)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16900,7 +17549,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 231
+  m_RootOrder: 227
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1206993832
 GameObject:
@@ -16914,9 +17563,9 @@ GameObject:
   - component: {fileID: 1206993835}
   - component: {fileID: 1206993834}
   - component: {fileID: 1206993833}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (59)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17021,7 +17670,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 188
+  m_RootOrder: 184
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1243817888
 GameObject:
@@ -17035,9 +17684,9 @@ GameObject:
   - component: {fileID: 1243817891}
   - component: {fileID: 1243817890}
   - component: {fileID: 1243817889}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (45)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17142,7 +17791,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 89
+  m_RootOrder: 86
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1245762804
 GameObject:
@@ -17156,9 +17805,9 @@ GameObject:
   - component: {fileID: 1245762807}
   - component: {fileID: 1245762806}
   - component: {fileID: 1245762805}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (70)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17263,8 +17912,267 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 108
+  m_RootOrder: 105
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1253502054
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1253502057}
+  - component: {fileID: 1253502056}
+  - component: {fileID: 1253502055}
+  - component: {fileID: 1253502061}
+  - component: {fileID: 1253502060}
+  - component: {fileID: 1253502059}
+  - component: {fileID: 1253502058}
+  m_Layer: 13
+  m_Name: Clyde
+  m_TagString: Ghost
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!95 &1253502055
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253502054}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1294047f7059c904faf2728e60c839d8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &1253502056
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253502054}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -6809031913082364651, guid: f0bd2fc92fccc464f8a039d305bb1826,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1253502057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253502054}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 19, y: 20, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!120 &1253502058
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253502054}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+--- !u!114 &1253502059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253502054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a864d44d1d36c3940ad42b95aed105f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PacMan: {fileID: 1329145727}
+  movespeed: 0.05
+  linerenderer: {fileID: 1253502058}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 7428
+  scatterMode: 0
+--- !u!50 &1253502060
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253502054}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.01
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!58 &1253502061
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253502054}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.8
 --- !u!1 &1258245247
 GameObject:
   m_ObjectHideFlags: 0
@@ -17277,9 +18185,9 @@ GameObject:
   - component: {fileID: 1258245250}
   - component: {fileID: 1258245249}
   - component: {fileID: 1258245248}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (69)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17384,7 +18292,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 102
+  m_RootOrder: 99
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1259990419
 GameObject:
@@ -17398,9 +18306,9 @@ GameObject:
   - component: {fileID: 1259990422}
   - component: {fileID: 1259990421}
   - component: {fileID: 1259990420}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (44)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17505,7 +18413,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 61
+  m_RootOrder: 59
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1262634782
 GameObject:
@@ -17519,9 +18427,9 @@ GameObject:
   - component: {fileID: 1262634785}
   - component: {fileID: 1262634784}
   - component: {fileID: 1262634783}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (32)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17640,9 +18548,9 @@ GameObject:
   - component: {fileID: 1277358368}
   - component: {fileID: 1277358367}
   - component: {fileID: 1277358366}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (57)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17747,7 +18655,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 140
+  m_RootOrder: 137
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1279689812
 GameObject:
@@ -17761,9 +18669,9 @@ GameObject:
   - component: {fileID: 1279689815}
   - component: {fileID: 1279689814}
   - component: {fileID: 1279689813}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (150)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17868,7 +18776,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 127
+  m_RootOrder: 124
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1297863561
 GameObject:
@@ -17882,9 +18790,9 @@ GameObject:
   - component: {fileID: 1297863564}
   - component: {fileID: 1297863563}
   - component: {fileID: 1297863562}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (261)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17989,7 +18897,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 159
+  m_RootOrder: 155
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1304450740
 GameObject:
@@ -18003,9 +18911,9 @@ GameObject:
   - component: {fileID: 1304450743}
   - component: {fileID: 1304450742}
   - component: {fileID: 1304450741}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (188)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18124,9 +19032,9 @@ GameObject:
   - component: {fileID: 1306147674}
   - component: {fileID: 1306147673}
   - component: {fileID: 1306147672}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (238)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18231,7 +19139,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 173
+  m_RootOrder: 169
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1312375832
 GameObject:
@@ -18245,9 +19153,9 @@ GameObject:
   - component: {fileID: 1312375835}
   - component: {fileID: 1312375834}
   - component: {fileID: 1312375833}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (153)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18352,7 +19260,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 168
+  m_RootOrder: 164
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1328339196
 GameObject:
@@ -18366,9 +19274,9 @@ GameObject:
   - component: {fileID: 1328339199}
   - component: {fileID: 1328339198}
   - component: {fileID: 1328339197}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (155)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18473,7 +19381,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 193
+  m_RootOrder: 189
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1329145727
 GameObject:
@@ -18489,7 +19397,8 @@ GameObject:
   - component: {fileID: 1329145733}
   - component: {fileID: 1329145732}
   - component: {fileID: 1329145731}
-  m_Layer: 0
+  - component: {fileID: 1329145734}
+  m_Layer: 8
   m_Name: PacMan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18574,11 +19483,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1329145727}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15, y: 8, z: 0}
+  m_LocalPosition: {x: 15, y: 26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1329145731
 MonoBehaviour:
@@ -18593,6 +19502,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movespeed: 0.4
+  chomp: {fileID: 1329145734}
+  moveDirection: {x: 0, y: 0}
+  Blinky: {fileID: 1917477922}
+  Pinky: {fileID: 830192420}
+  Inky: {fileID: 309430681}
+  Clyde: {fileID: 1253502054}
+  score: {fileID: 1695616410}
 --- !u!58 &1329145732
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -18603,7 +19519,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -18630,6 +19546,150 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!82 &1329145734
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1329145727}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: dd62347c5d7cb9148902bf790c292552, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &1334309640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1334309641}
+  - component: {fileID: 1334309642}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1334309641
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334309640}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1334309642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334309640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aea12fb6cd80adb40b217e9fe0a52b33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pinkwall: {fileID: 1050789020}
+  Blinky: {fileID: 1917477922}
+  Inky: {fileID: 309430681}
+  Pinky: {fileID: 830192420}
+  Clyde: {fileID: 1253502054}
 --- !u!1 &1344469536
 GameObject:
   m_ObjectHideFlags: 0
@@ -18642,9 +19702,9 @@ GameObject:
   - component: {fileID: 1344469539}
   - component: {fileID: 1344469538}
   - component: {fileID: 1344469537}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (96)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18763,9 +19823,9 @@ GameObject:
   - component: {fileID: 1359288957}
   - component: {fileID: 1359288956}
   - component: {fileID: 1359288955}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (39)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18884,9 +19944,9 @@ GameObject:
   - component: {fileID: 1361901758}
   - component: {fileID: 1361901757}
   - component: {fileID: 1361901756}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (148)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18991,7 +20051,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 104
+  m_RootOrder: 101
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1363002119
 GameObject:
@@ -19005,9 +20065,9 @@ GameObject:
   - component: {fileID: 1363002122}
   - component: {fileID: 1363002121}
   - component: {fileID: 1363002120}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (116)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19112,7 +20172,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 107
+  m_RootOrder: 104
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1365124728
 GameObject:
@@ -19126,9 +20186,9 @@ GameObject:
   - component: {fileID: 1365124731}
   - component: {fileID: 1365124730}
   - component: {fileID: 1365124729}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (144)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19233,7 +20293,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 177
+  m_RootOrder: 173
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1379240779
 GameObject:
@@ -19247,9 +20307,9 @@ GameObject:
   - component: {fileID: 1379240782}
   - component: {fileID: 1379240781}
   - component: {fileID: 1379240780}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (179)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19368,9 +20428,9 @@ GameObject:
   - component: {fileID: 1380717123}
   - component: {fileID: 1380717122}
   - component: {fileID: 1380717121}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (223)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19475,7 +20535,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 88
+  m_RootOrder: 85
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1383549255
 GameObject:
@@ -19489,9 +20549,9 @@ GameObject:
   - component: {fileID: 1383549258}
   - component: {fileID: 1383549257}
   - component: {fileID: 1383549256}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (260)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19596,7 +20656,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 124
+  m_RootOrder: 121
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1388811789
 GameObject:
@@ -19610,9 +20670,9 @@ GameObject:
   - component: {fileID: 1388811792}
   - component: {fileID: 1388811791}
   - component: {fileID: 1388811790}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (217)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19717,7 +20777,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 166
+  m_RootOrder: 162
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1390070288
 GameObject:
@@ -19731,9 +20791,9 @@ GameObject:
   - component: {fileID: 1390070291}
   - component: {fileID: 1390070290}
   - component: {fileID: 1390070289}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (230)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19838,7 +20898,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 191
+  m_RootOrder: 187
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1390265949
 GameObject:
@@ -19852,9 +20912,9 @@ GameObject:
   - component: {fileID: 1390265952}
   - component: {fileID: 1390265951}
   - component: {fileID: 1390265950}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (47)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19959,7 +21019,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 151
+  m_RootOrder: 148
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1393661656
 GameObject:
@@ -20016,6 +21076,7 @@ GameObject:
   - component: {fileID: 1393661688}
   - component: {fileID: 1393661687}
   - component: {fileID: 1393661703}
+  - component: {fileID: 1393661704}
   m_Layer: 0
   m_Name: mazeoriginal
   m_TagString: Untagged
@@ -20864,14 +21925,12 @@ Transform:
   - {fileID: 800296988}
   - {fileID: 1359288958}
   - {fileID: 1792374348}
-  - {fileID: 913483818}
   - {fileID: 983465537}
   - {fileID: 317704500}
   - {fileID: 289629525}
   - {fileID: 1050458342}
   - {fileID: 737717603}
   - {fileID: 1495247844}
-  - {fileID: 1448929027}
   - {fileID: 1445732699}
   - {fileID: 1259990423}
   - {fileID: 1515068920}
@@ -20895,7 +21954,6 @@ Transform:
   - {fileID: 441043177}
   - {fileID: 241840229}
   - {fileID: 723137208}
-  - {fileID: 820381681}
   - {fileID: 453109569}
   - {fileID: 1686708343}
   - {fileID: 129796856}
@@ -20970,7 +22028,6 @@ Transform:
   - {fileID: 1914939308}
   - {fileID: 1131711599}
   - {fileID: 1103977133}
-  - {fileID: 748231274}
   - {fileID: 1297863565}
   - {fileID: 60583998}
   - {fileID: 38266552}
@@ -21057,7 +22114,7 @@ Transform:
   - {fileID: 142592362}
   - {fileID: 396945470}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1393661687
 BoxCollider2D:
@@ -21072,7 +22129,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 17.75, y: 17.25}
+  m_Offset: {x: 17.5, y: 17.25}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -21083,7 +22140,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5, y: 3.5}
+  m_Size: {x: 1, y: 3.5}
   m_EdgeRadius: 0
 --- !u!61 &1393661688
 BoxCollider2D:
@@ -21098,7 +22155,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 14.5, y: 18.75}
+  m_Offset: {x: 12.25, y: 18.5}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -21109,7 +22166,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 6, y: 0.5}
+  m_Size: {x: 1.5, y: 1}
   m_EdgeRadius: 0
 --- !u!61 &1393661689
 BoxCollider2D:
@@ -21124,7 +22181,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 11.25, y: 17.25}
+  m_Offset: {x: 11.5, y: 17.25}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -21135,7 +22192,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5, y: 3.5}
+  m_Size: {x: 1, y: 3.5}
   m_EdgeRadius: 0
 --- !u!61 &1393661690
 BoxCollider2D:
@@ -21150,7 +22207,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 14.5, y: 15.25}
+  m_Offset: {x: 14.5, y: 15.5}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -21161,7 +22218,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 7, y: 0.5}
+  m_Size: {x: 7, y: 1}
   m_EdgeRadius: 0
 --- !u!61 &1393661691
 BoxCollider2D:
@@ -21501,6 +22558,32 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 3}
   m_EdgeRadius: 0
+--- !u!61 &1393661704
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1393661656}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 16.75, y: 18.548069}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 29, y: 32}
+    newSize: {x: 29, y: 32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.5, y: 0.9038601}
+  m_EdgeRadius: 0
 --- !u!1 &1397465806
 GameObject:
   m_ObjectHideFlags: 0
@@ -21513,9 +22596,9 @@ GameObject:
   - component: {fileID: 1397465809}
   - component: {fileID: 1397465808}
   - component: {fileID: 1397465807}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (103)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21620,7 +22703,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 117
+  m_RootOrder: 114
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1401327334
 GameObject:
@@ -21634,9 +22717,9 @@ GameObject:
   - component: {fileID: 1401327337}
   - component: {fileID: 1401327336}
   - component: {fileID: 1401327335}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (128)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21755,9 +22838,9 @@ GameObject:
   - component: {fileID: 1405059120}
   - component: {fileID: 1405059119}
   - component: {fileID: 1405059118}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (151)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21862,7 +22945,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 146
+  m_RootOrder: 143
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1426202166
 GameObject:
@@ -21876,9 +22959,9 @@ GameObject:
   - component: {fileID: 1426202169}
   - component: {fileID: 1426202168}
   - component: {fileID: 1426202167}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (272)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21983,7 +23066,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 223
+  m_RootOrder: 219
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1427713577
 GameObject:
@@ -21997,9 +23080,9 @@ GameObject:
   - component: {fileID: 1427713580}
   - component: {fileID: 1427713579}
   - component: {fileID: 1427713578}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (100)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22104,7 +23187,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 75
+  m_RootOrder: 73
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1445732695
 GameObject:
@@ -22118,9 +23201,9 @@ GameObject:
   - component: {fileID: 1445732698}
   - component: {fileID: 1445732697}
   - component: {fileID: 1445732696}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (265)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22225,128 +23308,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 60
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1448929023
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1448929027}
-  - component: {fileID: 1448929026}
-  - component: {fileID: 1448929025}
-  - component: {fileID: 1448929024}
-  m_Layer: 0
-  m_Name: pacdot (278)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1448929024
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1448929023}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e6af9cdc5d45394bbcfb23769201aae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!61 &1448929025
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1448929023}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.25, y: 0.25}
-    newSize: {x: 0.25, y: 0.25}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.25, y: 0.25}
-  m_EdgeRadius: 0
---- !u!212 &1448929026
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1448929023}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: bf716517895827244b73292bd834ef91, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.25, y: 0.25}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1448929027
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1448929023}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 27, y: 8, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1393661686}
-  m_RootOrder: 59
+  m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1454572289
 GameObject:
@@ -22360,9 +23322,9 @@ GameObject:
   - component: {fileID: 1454572292}
   - component: {fileID: 1454572291}
   - component: {fileID: 1454572290}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (119)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22467,7 +23429,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 149
+  m_RootOrder: 146
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1465864478
 GameObject:
@@ -22481,9 +23443,9 @@ GameObject:
   - component: {fileID: 1465864481}
   - component: {fileID: 1465864480}
   - component: {fileID: 1465864479}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (143)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22588,7 +23550,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 147
+  m_RootOrder: 144
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1474801381
 GameObject:
@@ -22602,9 +23564,9 @@ GameObject:
   - component: {fileID: 1474801384}
   - component: {fileID: 1474801383}
   - component: {fileID: 1474801382}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (166)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22709,7 +23671,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 79
+  m_RootOrder: 77
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1482598447
 GameObject:
@@ -22723,9 +23685,9 @@ GameObject:
   - component: {fileID: 1482598450}
   - component: {fileID: 1482598449}
   - component: {fileID: 1482598448}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (94)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22844,9 +23806,9 @@ GameObject:
   - component: {fileID: 1489675020}
   - component: {fileID: 1489675019}
   - component: {fileID: 1489675018}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (61)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22951,7 +23913,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 210
+  m_RootOrder: 206
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1492890053
 GameObject:
@@ -22965,9 +23927,9 @@ GameObject:
   - component: {fileID: 1492890056}
   - component: {fileID: 1492890055}
   - component: {fileID: 1492890054}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (110)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23072,7 +24034,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 162
+  m_RootOrder: 158
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1495247840
 GameObject:
@@ -23086,9 +24048,9 @@ GameObject:
   - component: {fileID: 1495247843}
   - component: {fileID: 1495247842}
   - component: {fileID: 1495247841}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (196)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23193,7 +24155,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 58
+  m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1502795178
 GameObject:
@@ -23207,9 +24169,9 @@ GameObject:
   - component: {fileID: 1502795181}
   - component: {fileID: 1502795180}
   - component: {fileID: 1502795179}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (34)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23328,9 +24290,9 @@ GameObject:
   - component: {fileID: 1506513274}
   - component: {fileID: 1506513273}
   - component: {fileID: 1506513272}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (252)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23435,7 +24397,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 176
+  m_RootOrder: 172
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1515068916
 GameObject:
@@ -23449,9 +24411,9 @@ GameObject:
   - component: {fileID: 1515068919}
   - component: {fileID: 1515068918}
   - component: {fileID: 1515068917}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (98)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23556,7 +24518,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 62
+  m_RootOrder: 60
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1516304591
 GameObject:
@@ -23570,9 +24532,9 @@ GameObject:
   - component: {fileID: 1516304594}
   - component: {fileID: 1516304593}
   - component: {fileID: 1516304592}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (92)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23691,9 +24653,9 @@ GameObject:
   - component: {fileID: 1539257274}
   - component: {fileID: 1539257273}
   - component: {fileID: 1539257272}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (231)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23798,8 +24760,108 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 200
+  m_RootOrder: 196
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1553841325
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1553841329}
+  - component: {fileID: 1553841328}
+  - component: {fileID: 1553841327}
+  - component: {fileID: 1553841326}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1553841326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553841325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1553841327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553841325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!223 &1553841328
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553841325}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 519420031}
+  m_PlaneDistance: 17.5
+  m_PixelPerfect: 1
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1553841329
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553841325}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 7.5}
+  m_LocalScale: {x: 0.10971787, y: 0.10971787, z: 0.10971787}
+  m_Children:
+  - {fileID: 159944370}
+  - {fileID: 1695616409}
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 14.5, y: 16}
+  m_SizeDelta: {x: 869.00006, y: 319}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1568182398
 GameObject:
   m_ObjectHideFlags: 0
@@ -23812,9 +24874,9 @@ GameObject:
   - component: {fileID: 1568182401}
   - component: {fileID: 1568182400}
   - component: {fileID: 1568182399}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (90)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23919,7 +24981,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 99
+  m_RootOrder: 96
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1570815693
 GameObject:
@@ -23933,9 +24995,9 @@ GameObject:
   - component: {fileID: 1570815696}
   - component: {fileID: 1570815695}
   - component: {fileID: 1570815694}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (121)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24040,7 +25102,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 169
+  m_RootOrder: 165
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1577468184
 GameObject:
@@ -24054,9 +25116,9 @@ GameObject:
   - component: {fileID: 1577468187}
   - component: {fileID: 1577468186}
   - component: {fileID: 1577468185}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (83)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24163,6 +25225,85 @@ Transform:
   m_Father: {fileID: 1393661686}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1602782706
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_Name
+      value: Power Pellet 2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_TagString
+      value: PowerPellet
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c39da758bcb97a849a254d10adf8bd60, type: 3}
 --- !u!1 &1606076298
 GameObject:
   m_ObjectHideFlags: 0
@@ -24175,9 +25316,9 @@ GameObject:
   - component: {fileID: 1606076301}
   - component: {fileID: 1606076300}
   - component: {fileID: 1606076299}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (81)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24282,7 +25423,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 152
+  m_RootOrder: 149
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1629150188
 GameObject:
@@ -24296,9 +25437,9 @@ GameObject:
   - component: {fileID: 1629150191}
   - component: {fileID: 1629150190}
   - component: {fileID: 1629150189}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (127)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24417,9 +25558,9 @@ GameObject:
   - component: {fileID: 1630431182}
   - component: {fileID: 1630431181}
   - component: {fileID: 1630431180}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (273)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24524,7 +25665,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 238
+  m_RootOrder: 234
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1631607563
 GameObject:
@@ -24538,9 +25679,9 @@ GameObject:
   - component: {fileID: 1631607566}
   - component: {fileID: 1631607565}
   - component: {fileID: 1631607564}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (28)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24659,9 +25800,9 @@ GameObject:
   - component: {fileID: 1636367346}
   - component: {fileID: 1636367345}
   - component: {fileID: 1636367344}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (237)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24766,7 +25907,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 144
+  m_RootOrder: 141
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1653784417
 GameObject:
@@ -24780,9 +25921,9 @@ GameObject:
   - component: {fileID: 1653784420}
   - component: {fileID: 1653784419}
   - component: {fileID: 1653784418}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (75)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24887,7 +26028,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 180
+  m_RootOrder: 176
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1656785658
 GameObject:
@@ -24901,9 +26042,9 @@ GameObject:
   - component: {fileID: 1656785661}
   - component: {fileID: 1656785660}
   - component: {fileID: 1656785659}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (224)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25008,7 +26149,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 110
+  m_RootOrder: 107
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1669319608
 GameObject:
@@ -25022,9 +26163,9 @@ GameObject:
   - component: {fileID: 1669319611}
   - component: {fileID: 1669319610}
   - component: {fileID: 1669319609}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (105)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25129,7 +26270,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 171
+  m_RootOrder: 167
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1686708339
 GameObject:
@@ -25143,9 +26284,9 @@ GameObject:
   - component: {fileID: 1686708342}
   - component: {fileID: 1686708341}
   - component: {fileID: 1686708340}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (215)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25250,8 +26391,178 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 85
+  m_RootOrder: 82
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1695616408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1695616409}
+  - component: {fileID: 1695616411}
+  - component: {fileID: 1695616410}
+  - component: {fileID: 1695616412}
+  m_Layer: 5
+  m_Name: Points
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1695616409
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695616408}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1553841329}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 68, y: 151}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1695616410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695616408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 0
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_outlineColor:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontSize: 14
+  m_fontSizeBase: 14
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_textAlignment: 514
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_firstOverflowCharacterIndex: -1
+  m_linkedTextComponent: {fileID: 0}
+  m_isLinkedTextComponent: 0
+  m_isTextTruncated: 0
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_ignoreRectMaskCulling: 0
+  m_ignoreCulling: 1
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_VertexBufferAutoSizeReduction: 1
+  m_firstVisibleCharacter: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_textInfo:
+    textComponent: {fileID: 1695616410}
+    characterCount: 1
+    spriteCount: 0
+    spaceCount: 0
+    wordCount: 1
+    linkCount: 0
+    lineCount: 1
+    pageCount: 1
+    materialCount: 1
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_spriteAnimator: {fileID: 0}
+  m_hasFontAssetChanged: 0
+  m_subTextObjects:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1695616411
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695616408}
+  m_CullTransparentMesh: 0
+--- !u!114 &1695616412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695616408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d156d98d14129842b8c15db3789c16b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreText: {fileID: 1695616410}
+  score: 0
 --- !u!1 &1702851089
 GameObject:
   m_ObjectHideFlags: 0
@@ -25264,9 +26575,9 @@ GameObject:
   - component: {fileID: 1702851092}
   - component: {fileID: 1702851091}
   - component: {fileID: 1702851090}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (194)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25385,9 +26696,9 @@ GameObject:
   - component: {fileID: 1706375526}
   - component: {fileID: 1706375525}
   - component: {fileID: 1706375524}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (189)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25506,9 +26817,9 @@ GameObject:
   - component: {fileID: 1707044449}
   - component: {fileID: 1707044448}
   - component: {fileID: 1707044447}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (269)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25613,7 +26924,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 150
+  m_RootOrder: 147
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1716032473
 GameObject:
@@ -25627,9 +26938,9 @@ GameObject:
   - component: {fileID: 1716032476}
   - component: {fileID: 1716032475}
   - component: {fileID: 1716032474}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (263)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25734,7 +27045,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 70
+  m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1722541415
 GameObject:
@@ -25748,9 +27059,9 @@ GameObject:
   - component: {fileID: 1722541418}
   - component: {fileID: 1722541417}
   - component: {fileID: 1722541416}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (232)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25855,7 +27166,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 205
+  m_RootOrder: 201
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1739563038
 GameObject:
@@ -25869,9 +27180,9 @@ GameObject:
   - component: {fileID: 1739563041}
   - component: {fileID: 1739563040}
   - component: {fileID: 1739563039}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (77)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25976,7 +27287,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 196
+  m_RootOrder: 192
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1752019935
 GameObject:
@@ -25990,9 +27301,9 @@ GameObject:
   - component: {fileID: 1752019938}
   - component: {fileID: 1752019937}
   - component: {fileID: 1752019936}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (190)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26099,6 +27410,85 @@ Transform:
   m_Father: {fileID: 1393661686}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1753929472
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_Name
+      value: Power Pellet 2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_TagString
+      value: PowerPellet
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c39da758bcb97a849a254d10adf8bd60, type: 3}
 --- !u!1 &1758587645
 GameObject:
   m_ObjectHideFlags: 0
@@ -26111,9 +27501,9 @@ GameObject:
   - component: {fileID: 1758587648}
   - component: {fileID: 1758587647}
   - component: {fileID: 1758587646}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (123)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26218,7 +27608,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 194
+  m_RootOrder: 190
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1760774932
 GameObject:
@@ -26232,9 +27622,9 @@ GameObject:
   - component: {fileID: 1760774935}
   - component: {fileID: 1760774934}
   - component: {fileID: 1760774933}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (257)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26339,7 +27729,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 206
+  m_RootOrder: 202
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1784663341
 GameObject:
@@ -26353,9 +27743,9 @@ GameObject:
   - component: {fileID: 1784663344}
   - component: {fileID: 1784663343}
   - component: {fileID: 1784663342}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (88)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26460,7 +27850,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 64
+  m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1792374344
 GameObject:
@@ -26474,9 +27864,9 @@ GameObject:
   - component: {fileID: 1792374347}
   - component: {fileID: 1792374346}
   - component: {fileID: 1792374345}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (43)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26595,9 +27985,9 @@ GameObject:
   - component: {fileID: 1806854949}
   - component: {fileID: 1806854948}
   - component: {fileID: 1806854947}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (114)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26702,7 +28092,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 213
+  m_RootOrder: 209
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1813297148
 GameObject:
@@ -26716,9 +28106,9 @@ GameObject:
   - component: {fileID: 1813297151}
   - component: {fileID: 1813297150}
   - component: {fileID: 1813297149}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (89)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26823,7 +28213,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 77
+  m_RootOrder: 75
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1823756561
 GameObject:
@@ -26837,9 +28227,9 @@ GameObject:
   - component: {fileID: 1823756564}
   - component: {fileID: 1823756563}
   - component: {fileID: 1823756562}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (253)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26944,7 +28334,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 201
+  m_RootOrder: 197
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1838303353
 GameObject:
@@ -26958,9 +28348,9 @@ GameObject:
   - component: {fileID: 1838303356}
   - component: {fileID: 1838303355}
   - component: {fileID: 1838303354}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (187)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27079,9 +28469,9 @@ GameObject:
   - component: {fileID: 1843745396}
   - component: {fileID: 1843745395}
   - component: {fileID: 1843745394}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (126)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27186,7 +28576,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 227
+  m_RootOrder: 223
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1849547633
 GameObject:
@@ -27200,9 +28590,9 @@ GameObject:
   - component: {fileID: 1849547636}
   - component: {fileID: 1849547635}
   - component: {fileID: 1849547634}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (129)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27321,9 +28711,9 @@ GameObject:
   - component: {fileID: 1856302885}
   - component: {fileID: 1856302884}
   - component: {fileID: 1856302883}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (162)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27428,7 +28818,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 126
+  m_RootOrder: 123
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1875871722
 GameObject:
@@ -27442,9 +28832,9 @@ GameObject:
   - component: {fileID: 1875871725}
   - component: {fileID: 1875871724}
   - component: {fileID: 1875871723}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (104)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27549,7 +28939,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 133
+  m_RootOrder: 130
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1877772547
 GameObject:
@@ -27563,9 +28953,9 @@ GameObject:
   - component: {fileID: 1877772550}
   - component: {fileID: 1877772549}
   - component: {fileID: 1877772548}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (200)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27670,7 +29060,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 76
+  m_RootOrder: 74
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1883687523
 GameObject:
@@ -27684,9 +29074,9 @@ GameObject:
   - component: {fileID: 1883687526}
   - component: {fileID: 1883687525}
   - component: {fileID: 1883687524}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (243)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27805,9 +29195,9 @@ GameObject:
   - component: {fileID: 1886677921}
   - component: {fileID: 1886677920}
   - component: {fileID: 1886677919}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (157)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27912,7 +29302,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 214
+  m_RootOrder: 210
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1896899027
 GameObject:
@@ -27926,9 +29316,9 @@ GameObject:
   - component: {fileID: 1896899030}
   - component: {fileID: 1896899029}
   - component: {fileID: 1896899028}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (216)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28033,7 +29423,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 97
+  m_RootOrder: 94
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1899421086
 GameObject:
@@ -28047,9 +29437,9 @@ GameObject:
   - component: {fileID: 1899421089}
   - component: {fileID: 1899421088}
   - component: {fileID: 1899421087}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (50)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28154,7 +29544,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 69
+  m_RootOrder: 67
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1914939304
 GameObject:
@@ -28168,9 +29558,9 @@ GameObject:
   - component: {fileID: 1914939307}
   - component: {fileID: 1914939306}
   - component: {fileID: 1914939305}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (227)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28275,7 +29665,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 155
+  m_RootOrder: 152
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1915310901
 GameObject:
@@ -28289,9 +29679,9 @@ GameObject:
   - component: {fileID: 1915310904}
   - component: {fileID: 1915310903}
   - component: {fileID: 1915310902}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (262)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28396,7 +29786,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 241
+  m_RootOrder: 237
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1917477922
 GameObject:
@@ -28411,9 +29801,11 @@ GameObject:
   - component: {fileID: 1917477925}
   - component: {fileID: 1917477924}
   - component: {fileID: 1917477923}
-  m_Layer: 0
+  - component: {fileID: 1917477928}
+  - component: {fileID: 1917477929}
+  m_Layer: 10
   m_Name: Blinky
-  m_TagString: Untagged
+  m_TagString: Ghost
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28432,7 +29824,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0.01
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -28533,12 +29925,128 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1917477922}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14, y: 20, z: 0}
+  m_LocalPosition: {x: 15, y: 17, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1917477928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1917477922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083e1f46638147449a620b199b6c42c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PacMan: {fileID: 1329145727}
+  movespeed: 0.05
+  linerenderer: {fileID: 1917477929}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 14596
+  scatterMode: 0
+--- !u!120 &1917477929
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1917477922}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
 --- !u!1 &1923053087
 GameObject:
   m_ObjectHideFlags: 0
@@ -28551,9 +30059,9 @@ GameObject:
   - component: {fileID: 1923053090}
   - component: {fileID: 1923053089}
   - component: {fileID: 1923053088}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (268)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28658,7 +30166,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 129
+  m_RootOrder: 126
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1942934820
 GameObject:
@@ -28672,9 +30180,9 @@ GameObject:
   - component: {fileID: 1942934823}
   - component: {fileID: 1942934822}
   - component: {fileID: 1942934821}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (195)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28793,9 +30301,9 @@ GameObject:
   - component: {fileID: 1962109654}
   - component: {fileID: 1962109653}
   - component: {fileID: 1962109652}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (35)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28914,9 +30422,9 @@ GameObject:
   - component: {fileID: 1965587599}
   - component: {fileID: 1965587598}
   - component: {fileID: 1965587597}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (255)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29021,7 +30529,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 216
+  m_RootOrder: 212
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1967544520
 GameObject:
@@ -29035,9 +30543,9 @@ GameObject:
   - component: {fileID: 1967544523}
   - component: {fileID: 1967544522}
   - component: {fileID: 1967544521}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (206)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29142,7 +30650,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 135
+  m_RootOrder: 132
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1968037873
 GameObject:
@@ -29156,9 +30664,9 @@ GameObject:
   - component: {fileID: 1968037876}
   - component: {fileID: 1968037875}
   - component: {fileID: 1968037874}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (78)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29263,7 +30771,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 211
+  m_RootOrder: 207
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1974936904
 GameObject:
@@ -29277,9 +30785,9 @@ GameObject:
   - component: {fileID: 1974936907}
   - component: {fileID: 1974936906}
   - component: {fileID: 1974936905}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (79)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29384,7 +30892,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 217
+  m_RootOrder: 213
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1981337295
 GameObject:
@@ -29398,9 +30906,9 @@ GameObject:
   - component: {fileID: 1981337298}
   - component: {fileID: 1981337297}
   - component: {fileID: 1981337296}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (178)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29519,9 +31027,9 @@ GameObject:
   - component: {fileID: 1999541700}
   - component: {fileID: 1999541699}
   - component: {fileID: 1999541698}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (95)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29626,7 +31134,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 106
+  m_RootOrder: 103
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2000669931
 GameObject:
@@ -29640,9 +31148,9 @@ GameObject:
   - component: {fileID: 2000669934}
   - component: {fileID: 2000669933}
   - component: {fileID: 2000669932}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (159)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29747,7 +31255,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 230
+  m_RootOrder: 226
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2014815821
 GameObject:
@@ -29761,9 +31269,9 @@ GameObject:
   - component: {fileID: 2014815824}
   - component: {fileID: 2014815823}
   - component: {fileID: 2014815822}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (87)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29882,9 +31390,9 @@ GameObject:
   - component: {fileID: 2019335280}
   - component: {fileID: 2019335279}
   - component: {fileID: 2019335278}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (167)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29985,11 +31493,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2019335277}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 27, y: 28, z: 0}
+  m_LocalPosition: {x: 27, y: 30, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 92
+  m_RootOrder: 89
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2020550464
 GameObject:
@@ -30003,9 +31511,9 @@ GameObject:
   - component: {fileID: 2020550467}
   - component: {fileID: 2020550466}
   - component: {fileID: 2020550465}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (132)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30110,7 +31618,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 130
+  m_RootOrder: 127
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2024527773
 GameObject:
@@ -30124,9 +31632,9 @@ GameObject:
   - component: {fileID: 2024527776}
   - component: {fileID: 2024527775}
   - component: {fileID: 2024527774}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (199)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30231,7 +31739,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 71
+  m_RootOrder: 69
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2046959025
 GameObject:
@@ -30245,9 +31753,9 @@ GameObject:
   - component: {fileID: 2046959028}
   - component: {fileID: 2046959027}
   - component: {fileID: 2046959026}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (72)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30352,7 +31860,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 139
+  m_RootOrder: 136
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2048562753
 GameObject:
@@ -30366,9 +31874,9 @@ GameObject:
   - component: {fileID: 2048562756}
   - component: {fileID: 2048562755}
   - component: {fileID: 2048562754}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (30)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30487,9 +31995,9 @@ GameObject:
   - component: {fileID: 2053075766}
   - component: {fileID: 2053075765}
   - component: {fileID: 2053075764}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (225)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30594,7 +32102,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 120
+  m_RootOrder: 117
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2064460833
 GameObject:
@@ -30608,9 +32116,9 @@ GameObject:
   - component: {fileID: 2064460836}
   - component: {fileID: 2064460835}
   - component: {fileID: 2064460834}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (174)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30729,9 +32237,9 @@ GameObject:
   - component: {fileID: 2074195358}
   - component: {fileID: 2074195357}
   - component: {fileID: 2074195356}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (29)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30850,9 +32358,9 @@ GameObject:
   - component: {fileID: 2082479354}
   - component: {fileID: 2082479353}
   - component: {fileID: 2082479352}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (279)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30957,7 +32465,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 185
+  m_RootOrder: 181
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2110884073
 GameObject:
@@ -30971,9 +32479,9 @@ GameObject:
   - component: {fileID: 2110884076}
   - component: {fileID: 2110884075}
   - component: {fileID: 2110884074}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (226)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31078,7 +32586,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 134
+  m_RootOrder: 131
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2114693719
 GameObject:
@@ -31092,9 +32600,9 @@ GameObject:
   - component: {fileID: 2114693722}
   - component: {fileID: 2114693721}
   - component: {fileID: 2114693720}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (274)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31199,7 +32707,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 165
+  m_RootOrder: 161
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2118051531
 GameObject:
@@ -31213,9 +32721,9 @@ GameObject:
   - component: {fileID: 2118051534}
   - component: {fileID: 2118051533}
   - component: {fileID: 2118051532}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (275)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31334,9 +32842,9 @@ GameObject:
   - component: {fileID: 2137157597}
   - component: {fileID: 2137157596}
   - component: {fileID: 2137157595}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (52)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31441,7 +32949,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1393661686}
-  m_RootOrder: 118
+  m_RootOrder: 115
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2141531492
 GameObject:
@@ -31455,9 +32963,9 @@ GameObject:
   - component: {fileID: 2141531495}
   - component: {fileID: 2141531494}
   - component: {fileID: 2141531493}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: pacdot (170)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31564,3 +33072,82 @@ Transform:
   m_Father: {fileID: 1393661686}
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &5793028443939520512
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_Name
+      value: Power Pellet 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_TagString
+      value: PowerPellet
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231476, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793028444538231478, guid: c39da758bcb97a849a254d10adf8bd60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c39da758bcb97a849a254d10adf8bd60, type: 3}

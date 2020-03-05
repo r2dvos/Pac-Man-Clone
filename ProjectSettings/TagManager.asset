@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ghost
+  - PowerPellet
+  - Pellet
+  - Maze
   layers:
   - Default
   - TransparentFX
@@ -13,13 +17,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Ghosts
+  - Blinky
+  - Inky
+  - Pinky
+  - Clyde
+  - Teleporters
   - 
   - 
   - 
