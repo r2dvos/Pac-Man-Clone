@@ -44,8 +44,8 @@ public class ModelScript : MonoBehaviour
     //updates the goal completion concept based on #of (power) pellets collected, time spent playing and time spent standing still
     void UpdateGoalCompletion()
     {
-        float pelletInfluence = GameManager.GetComponent<GameManagerScript>().pelletsCollected / 240f;                                            //maxvalue = 1
-        float powerPelletInfluence = GameManager.GetComponent<GameManagerScript>().powerPelletsCollected / 4f;                                    //maxvalue = 1;
+        float pelletInfluence = GameManager.GetComponent<GameManagerScriptOld>().pelletsCollected / 240f;                                            //maxvalue = 1
+        float powerPelletInfluence = GameManager.GetComponent<GameManagerScriptOld>().powerPelletsCollected / 4f;                                    //maxvalue = 1;
         float timeInfluence = -(Time.time / 240f);                                                   //maxvalue = inf, 1 on 4 minutes
         float stillInfluence = -(PacMan.GetComponent<PacManMoveScript>().timeSpent * (float)0.01);  //maxvalue = inf, less than timeinf
         extentOfGoalCompletion = pelletInfluence + powerPelletInfluence + timeInfluence + stillInfluence; //maxvalue = 2
@@ -68,9 +68,9 @@ public class ModelScript : MonoBehaviour
         //nearest ghost
         //ghost speed
         //ghost predictability measure
-        float curGhostDistanceInfluence = -GameManager.GetComponent<GameManagerScript>().CalcAvgDistance();
-        float nearestGhostInfluence = -GameManager.GetComponent<GameManagerScript>().CalcNearestGhost();
-        float ghostSpeedInfluence = -GameManager.GetComponent<GameManagerScript>().ghostSpeed;
+        float curGhostDistanceInfluence = -GameManager.GetComponent<GameManagerScriptOld>().CalcAvgDistance();
+        float nearestGhostInfluence = -GameManager.GetComponent<GameManagerScriptOld>().CalcNearestGhost();
+        float ghostSpeedInfluence = -GameManager.GetComponent<GameManagerScriptOld>().ghostSpeed;
         //float ghostpredictabilitymeasure
 
         blockAnticipation = curGhostDistanceInfluence + nearestGhostInfluence + ghostSpeedInfluence;

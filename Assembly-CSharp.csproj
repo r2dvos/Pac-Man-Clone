@@ -63,19 +63,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\LivesScript.cs" />
-    <Compile Include="Assets\Scripts\BlinkyMoveScript.cs" />
+    <Compile Include="Assets\Old\BlinkyMoveScript.cs" />
+    <Compile Include="Assets\Old\ClydeMoveScript.cs" />
+    <Compile Include="Assets\Old\GameManagerScriptOld.cs" />
+    <Compile Include="Assets\Old\InkyMoveScript.cs" />
+    <Compile Include="Assets\Old\PinkyMoveScript.cs" />
     <Compile Include="Assets\Scripts\BlinkyScript.cs" />
-    <Compile Include="Assets\Scripts\ClydeMoveScript.cs" />
+    <Compile Include="Assets\Scripts\ClydeScript.cs" />
     <Compile Include="Assets\Scripts\GameManagerScript.cs" />
     <Compile Include="Assets\Scripts\GhostBehaviourScript.cs" />
-    <Compile Include="Assets\Scripts\InkyMoveScript.cs" />
+    <Compile Include="Assets\Scripts\InkyScript.cs" />
     <Compile Include="Assets\Scripts\MenuScript.cs" />
     <Compile Include="Assets\Scripts\ModelScript.cs" />
     <Compile Include="Assets\Scripts\OneWayCollider.cs" />
     <Compile Include="Assets\Scripts\PacDotScript.cs" />
     <Compile Include="Assets\Scripts\PacManMoveScript.cs" />
-    <Compile Include="Assets\Scripts\PinkyMoveScript.cs" />
+    <Compile Include="Assets\Scripts\PinkyScript.cs" />
     <Compile Include="Assets\Scripts\ScoreScript.cs" />
     <Compile Include="Assets\Scripts\VectorRounder.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />

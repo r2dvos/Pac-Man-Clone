@@ -6,7 +6,7 @@ using TMPro;
 
 public class PacManMoveScript : MonoBehaviour
 {
-    public float movespeed = 0.4f;
+    public float movespeed = 0.3f;
     Vector2 destination = Vector2.zero;
     public AudioSource chomp;
     public Vector2 moveDirection;
@@ -16,7 +16,8 @@ public class PacManMoveScript : MonoBehaviour
     public GameObject Clyde;
     public TextMeshProUGUI score;
     public GameObject GameManager;
-    private Vector2 startPos;
+    public Vector2 startPos;
+    private bool poweredUp;
 
     [HideInInspector]
     public float timeSpent;
@@ -24,7 +25,7 @@ public class PacManMoveScript : MonoBehaviour
     void Start()
     {
         startPos = new Vector2(15, 8);
-        GameManager.GetComponent<GameManagerScript>().ResetGame += StartGame;
+        //GameManager.GetComponent<GameManagerScript>().ResetGame += StartGame;
         destination = transform.position;
     }
 
@@ -68,6 +69,7 @@ public class PacManMoveScript : MonoBehaviour
         GetComponent<Animator>().SetFloat("DirY", dir.y);
     }
 
+    //Checks the direction Pacman is moving in. This is used in Inky and Pinky's pathfinding logic
     Vector2 CheckMoveDirection(Vector2 dir)
     {
         if (dir.x > 0.01)
@@ -89,34 +91,34 @@ public class PacManMoveScript : MonoBehaviour
         return moveDirection;
     }
 
+    // Cast Line from 'next square in movedirection to 'Pac-Man'. True = hit pac man, ignores ghosts
     bool valid(Vector2 dir)
     {
-        // Cast Line from 'next square in movedirection to 'Pac-Man'. True = hit pac man
+        LayerMask layerMask = LayerMask.GetMask("Ghosts");
         Vector2 pos = transform.position;
-        RaycastHit2D hit = Physics2D.Linecast(pos + dir, pos);
+        RaycastHit2D hit = Physics2D.Linecast(pos + dir, pos, ~layerMask);
         return (hit.collider == GetComponent<Collider2D>());
     }
 
-    //Determines what happens when collided with. PacMan eats pellets, powers up due to power pellets and dies to ghosts
+    //Determines what happens when collided with. PacMan increases score when eating pellets, powers up due to power pellets and dies to ghosts
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "PowerPellet")
         {
-            StartCoroutine(Blinky.GetComponent<BlinkyMoveScript>().Scatter(8));
-            StartCoroutine(Inky.GetComponent<InkyMoveScript>().Scatter(8));
-            StartCoroutine(Pinky.GetComponent<PinkyMoveScript>().Scatter(8));
-            StartCoroutine(Clyde.GetComponent<ClydeMoveScript>().Scatter(8));
-
             GameManager.GetComponent<GameManagerScript>().PowerPelletCollected();
+            GameManager.GetComponent<GameManagerScript>().powerPelletsCollected += 1;
+
             score.GetComponent<ScoreScript>().ScorePowerPellet();
+            StartCoroutine(GameManager.GetComponent<GameManagerScript>().CheckForGameEnd());
         }
 
         if (collision.tag == "Pellet")
         {
+            GameManager.GetComponent<GameManagerScript>().pelletsCollected += 1;
             score.GetComponent<ScoreScript>().ScorePellet();
-            GameManager.GetComponent<GameManagerScript>().PelletCollected();
+            StartCoroutine(GameManager.GetComponent<GameManagerScript>().CheckForGameEnd());
         }
-        if (collision.tag == "Ghost")
+        if (collision.tag == "Ghost" && collision.gameObject.GetComponent<GhostBehaviourScript>().frightened)
         {
             score.GetComponent<ScoreScript>().ScoreGhost();
         }
@@ -135,7 +137,7 @@ public class PacManMoveScript : MonoBehaviour
         }
     }
 
-    public void StartGame()
+    public void ResetGame()
     {
         gameObject.transform.position = startPos;
         destination = startPos;
