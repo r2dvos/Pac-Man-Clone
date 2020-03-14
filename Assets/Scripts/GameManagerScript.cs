@@ -124,7 +124,7 @@ public class GameManagerScript : MonoBehaviour
         }
         else
         {
-            //GameOverSequence
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 
