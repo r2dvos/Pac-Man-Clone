@@ -10,14 +10,10 @@ public class PacManMoveScript : MonoBehaviour
     Vector2 destination = Vector2.zero;
     public AudioSource chomp;
     public Vector2 moveDirection;
-    public GameObject Blinky;
-    public GameObject Pinky;
-    public GameObject Inky;
-    public GameObject Clyde;
     public TextMeshProUGUI score;
     public GameObject GameManager;
     public Vector2 startPos;
-    private bool poweredUp;
+    public LineRenderer lineRenderer;
 
     [HideInInspector]
     public float timeSpent;
@@ -95,7 +91,7 @@ public class PacManMoveScript : MonoBehaviour
     bool valid(Vector2 dir)
     {
         LayerMask layerMask = LayerMask.GetMask("Ghosts");
-        Vector2 pos = transform.position;
+        Vector2 pos = transform.position.Round();
         RaycastHit2D hit = Physics2D.Linecast(pos + dir, pos, ~layerMask);
         return (hit.collider == GetComponent<Collider2D>());
     }

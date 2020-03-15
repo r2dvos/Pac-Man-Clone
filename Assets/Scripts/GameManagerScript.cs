@@ -53,7 +53,7 @@ public class GameManagerScript : MonoBehaviour
         yield break;
     }
 
-    //The Coroutine that actually moves the Ghosts from the Ghosthouse and activates them
+    //This Coroutine moves the ghost in the input out of the ghost house via 2 waypoints, then activates their script
     IEnumerator MoveFromHouse(GameObject ghost, Vector2 waypoint1, Vector2 waypoint2)
     {
         while ((Vector2)ghost.transform.position != waypoint1)
@@ -111,7 +111,7 @@ public class GameManagerScript : MonoBehaviour
         yield break;
     }
 
-    //Stops all current activity on player death and starts the sequences that restart the game
+    //Stops all current activity on player death and starts the sequences that restart the game. Resets the game if all lives are lost
     public void PlayerDeath()
     {
         lives -= 1;
