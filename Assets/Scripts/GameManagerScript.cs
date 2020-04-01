@@ -176,6 +176,11 @@ public class GameManagerScript : MonoBehaviour
         StartCoroutine(Inky.GetComponent<InkyScript>().Frightened(8));
         StartCoroutine(Pinky.GetComponent<PinkyScript>().Frightened(8));
         StartCoroutine(Clyde.GetComponent<ClydeScript>().Frightened(8));
+        int ranNum = Random.Range(0, 2);
+        if (ranNum == 0)
+        {
+            StartCoroutine(PacMan.GetComponent<PacManMoveScript>().Stunned(8));
+        }
     }
 
     public void InitializeLives()

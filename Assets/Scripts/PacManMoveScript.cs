@@ -18,6 +18,7 @@ public class PacManMoveScript : MonoBehaviour
     public GameObject GameManager;
     public Vector2 startPos;
     private bool poweredUp;
+    public bool stunned;
 
     [HideInInspector]
     public float timeSpent;
@@ -37,7 +38,7 @@ public class PacManMoveScript : MonoBehaviour
         GetComponent<Rigidbody2D>().MovePosition(p);
 
         // Check for Input if not moving
-        if ((Vector2)transform.position == destination)
+        if ((Vector2)transform.position == destination && stunned != true)
         {
             if (Input.GetKey(KeyCode.UpArrow) && valid(Vector2.up))
                 destination = (Vector2)transform.position + Vector2.up;
@@ -137,9 +138,17 @@ public class PacManMoveScript : MonoBehaviour
         }
     }
 
+    public IEnumerator Stunned(int time)
+    {
+        stunned = true;
+        yield return new WaitForSeconds(time);
+        stunned = false;
+    }
+
     public void ResetGame()
     {
         gameObject.transform.position = startPos;
         destination = startPos;
+        stunned = false;
     }
 }
